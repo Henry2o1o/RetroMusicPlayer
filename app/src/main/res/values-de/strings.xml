@@ -161,7 +161,7 @@
   <string name="licenses">Lizenzen</string>
   <string name="light_theme_name">Hell</string>
   <string name="listing_files">Gelistete Dateien</string>
-  <string name="loading">Laden...</string>
+  <string name="loading">Laden…</string>
   <string name="loading_products">Laden von Produkten…</string>
   <string name="lyrics">Liedtexte</string>
   <string name="media_route_menu_title">Gegossene Vorrichtung</string>
@@ -218,7 +218,7 @@
   <string name="pref_summary_blurred_album_art">Verunschärft das Album-Cover des Sperrbildschirm. Kann Probleme mit anderen Apps und Widgets verursachen.</string>
   <string name="pref_summary_classic_notification">Verwenden Sie das klassische Benachrichtigungsdesign.</string>
   <string name="pref_summary_colored_app">Hintergrund und Bedienelemente färben sich je nach Album-Cover</string>
-  <string name="pref_summary_colored_app_shortcuts">Färbt die Tastenkombinationen der Apps in der Akzentfarbe ein.. Jedes Mal, wenn Sie die Farbe gewechselt haben, schalten Sie diese bitte um, damit sie wirksam wird.</string>
+  <string name="pref_summary_colored_app_shortcuts">Färbt die Tastenkombinationen der Apps in der Akzentfarbe ein. Jedes Mal, wenn Sie die Farbe gewechselt haben, schalten Sie diese bitte um, damit sie wirksam wird.</string>
   <string name="pref_summary_colored_navigation_bar">Färbt die Navigationsleiste in der Primärfarbe ein.</string>
   <string name="pref_summary_colored_notification">Die Benachrichtigung wird in der lebendigen Farbe des Albumcovers eingefärbt.</string>
   <string name="pref_summary_day_dream">Zeigt Song-Details zum Traum, wenn Musik abgespielt wird.</string>
@@ -303,7 +303,7 @@
   <string name="saf_guide_slide2_description">Sie müssen das Stammverzeichnis Ihrer SD-Karte auswählen.</string>
   <string name="saf_guide_slide2_title">Wählen Sie Ihre SD-Karte in der Navigationsschublade aus.</string>
   <string name="saf_guide_slide3_description">Öffnen Sie keine Unterordner.</string>
-  <string name="saf_guide_slide3_title">Tippen Sie auf die Schaltfläche\\"Auswählen\\" am unteren Rand des Bildschirms.</string>
+  <string name="saf_guide_slide3_title">Tippen Sie auf die Schaltfläche \\"Auswählen\\" am unteren Rand des Bildschirms.</string>
   <string name="saf_pick_file">Dateizugriff erforderlich. Pick %s</string>
   <string name="saf_pick_sdcard">SD-Kartenzugriff erforderlich. Bitte wählen Sie das Stammverzeichnis der SD-Karte aus</string>
   <string name="saf_write_failed">Datei schreiben fehlgeschlagen: %s</string>
@@ -337,7 +337,7 @@
   <string name="tag_edit_error">Es trat ein Fehler beim Bearbeiten von Tags auf.</string>
   <string name="tag_editor_check_permission">Prüfung auf Berechtigungen</string>
   <string name="tag_editor_document_tree_message">Wählen Sie das externe Ablageverzeichnis aus</string>
-  <string name="tag_editor_document_tree_permission_failed">Es scheint, dass wir keine Berechtigung haben, die Dateien zu bearbeiten.. Überprüfen Sie das Verzeichnis in der Dateiauswahl doppelt.</string>
+  <string name="tag_editor_document_tree_permission_failed">Es scheint, dass wir keine Berechtigung haben, die Dateien zu bearbeiten. Überprüfen Sie das Verzeichnis in der Dateiauswahl doppelt.</string>
   <string name="tag_error_kitkat">Es ist ein Fehler aufgetreten, bei der Bearbeitung von Tags. Wenn die Datei auf einer SD-Karte gespeichert ist, hat Google die Tag-Bearbeitung für diese Datei unmöglich gemacht.</string>
   <string name="tag_error_lollipop">Es ist ein Fehler aufgetreten, bei der Bearbeitung von Tags. Wenn die Datei auf einer SD-Karte gespeichert ist, hat Retro Music möglicherweise keine Zugriffsberechtigung.</string>
   <string name="tag_retrieve_error">Es trat ein Fehler beim Abrufen von Tags auf.</string>
@@ -374,7 +374,7 @@
   <string name="update">Aktualisieren</string>
   <string name="update_image">Bild aktualisieren</string>
   <string name="updated_artist_image">Künstler Bild aktualisiert.</string>
-  <string name="updating">Aktualisieren..</string>
+  <string name="updating">Aktualisieren…</string>
   <string name="version">Ausführung</string>
   <string name="virtualizer_strength">Virtualizer-Stärke</string>
   <string name="volume_control">Lautstärkeregler</string>
