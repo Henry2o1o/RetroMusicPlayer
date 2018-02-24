@@ -75,7 +75,7 @@
   <string name="audio_focus_denied">Audio Fokus verweigert.</string>
   <string name="bass_boost_strength">Bass Boost Stärke</string>
   <string name="biography">Biografie</string>
-  <string name="biography_unavailable">Biografie 2u2019t konnte nicht gefunden werden.</string>
+  <string name="biography_unavailable">Biografie konnte\2u2019t nicht gefunden werden.</string>
   <string name="black_theme_name">Schwarz (AMOLED)</string>
   <string name="blacklist">Schwarze Liste</string>
   <string name="blur">Unschärfe</string>
