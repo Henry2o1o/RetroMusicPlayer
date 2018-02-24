@@ -75,7 +75,7 @@
   <string name="audio_focus_denied">Audio Fokus verweigert.</string>
   <string name="bass_boost_strength">Bass Boost Stärke</string>
   <string name="biography">Biografie</string>
-  <string name="biography_unavailable">K\u00fcnstler Biografie konnte nicht gefunden werden.</string>
+  <string name="biography_unavailable">Biografie 2u2019t konnte nicht gefunden werden.</string>
   <string name="black_theme_name">Schwarz (AMOLED)</string>
   <string name="blacklist">Schwarze Liste</string>
   <string name="blur">Unschärfe</string>
@@ -298,12 +298,12 @@
   <string name="saf_delete_failed">Das Löschen von Dateien ist fehlgeschlagen: %s</string>
   <string name="saf_error_uri">Kann SAF URI nicht bekommen</string>
   <string name="saf_guide_slide1_description">Navigations-Übersicht öffnen</string>
-  <string name="saf_guide_slide1_description_before_o">Aktivieren Sie im Überlaufmenü die Option\\"SD-Karte anzeigen\\".</string>
+  <string name="saf_guide_slide1_description_before_o">Aktivieren Sie im Überlaufmenü die Option \"SD-Karte anzeigen\".</string>
   <string name="saf_guide_slide1_title">%s benötigt SD-Kartenzugriff</string>
   <string name="saf_guide_slide2_description">Sie müssen das Stammverzeichnis Ihrer SD-Karte auswählen.</string>
   <string name="saf_guide_slide2_title">Wählen Sie Ihre SD-Karte in der Navigationsschublade aus.</string>
   <string name="saf_guide_slide3_description">Öffnen Sie keine Unterordner.</string>
-  <string name="saf_guide_slide3_title">Tippen Sie auf die Schaltfläche \\"Auswählen\\" am unteren Rand des Bildschirms.</string>
+  <string name="saf_guide_slide3_title">Tippen Sie auf die Schaltfläche \"Auswählen\" am unteren Rand des Bildschirms.</string>
   <string name="saf_pick_file">Dateizugriff erforderlich. Pick %s</string>
   <string name="saf_pick_sdcard">SD-Kartenzugriff erforderlich. Bitte wählen Sie das Stammverzeichnis der SD-Karte aus</string>
   <string name="saf_write_failed">Datei schreiben fehlgeschlagen: %s</string>
